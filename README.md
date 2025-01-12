@@ -4,7 +4,7 @@
 
 
                 THIS PROJECT IS PURELY FOR EDUCATIONAL PURPOSES ONLY 
-                        AND IS A PROOF OF CONCENT (POC)
+                        AND IS A PROOF OF CONCEPT (POC)
                 I AM NOT TO BE BLAMED FOR ANY MISUSE OF THE PROJECT
 # Discord token generator and validator
 
