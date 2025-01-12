@@ -3,9 +3,9 @@
 
 
 
-                                                THIS PROJECT IS PURELY FOR EDUCATIONAL PURPOSES ONLY 
-                                                            AND IS A PROOF OF CONCENT (POC)
-                                                 I AM NOT TO BE BLAMED FOR ANY MISUSE OF THE PROJECT
+                                          THIS PROJECT IS PURELY FOR EDUCATIONAL PURPOSES ONLY 
+                                                     AND IS A PROOF OF CONCENT (POC)
+                                          I AM NOT TO BE BLAMED FOR ANY MISUSE OF THE PROJECT
 # discord token generator and validator
 
 A python script that generates (N) Amount of discord tokens, to be validated in the hopes that one/some of the tokens are valid.
